@@ -1,4 +1,4 @@
 from picrawler import Picrawler
 
 crawler = Picrawler()
-speed = 100
+speed = 90
