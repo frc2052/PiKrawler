@@ -35,7 +35,6 @@ def move(x, y):
     if x == 0 or y== 0:
         crawler.do_step([45, 45, -75],[45, 45, -75],[45, 45, -75],[45, 45, -75]) 
         return 0
-    else:
     
 
 
